@@ -33,7 +33,7 @@
 
 ۱. پروژه را کلون کنید:
 ```bash
-git clone https://github.com/AmiraliYavari/atrkhane.git
+git clone https://github.com/AmiraliYavari/Perfume-Shop.git
 cd atrkhane
 ```
 
