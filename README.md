@@ -81,7 +81,7 @@ odkolon_shop/
 
 ## 📸 پیش‌نمایش
 
-![صفحه اصلی](https://via.placeholder.com/800x400.png?text=Home+Page)
+![صفحه اصلی](https://cdn.imgurl.ir/uploads/x907971_Screenshot_2026-06-18_223536.png)
 *صفحه اصلی با اسلایدر و محصولات*
 
 ## 🤝 مشارکت
